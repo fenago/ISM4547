@@ -1,0 +1,9 @@
+ Direction Details 
+1. Connect to the Orders table in the Superstore Sales Training.xls data source (Download From GitHub). 
+2. In the Data window, change the Order and Row fields to Dimensions. 
+3. Change the Default Properties of both Profit and Sales fields to Currency with 0 decimal places. 
+4. Change the Default Properties of the Discount field to use the Average aggregation, and use percentage with two (2) decimal places. 
+5. Edit the comment for Discount Field to read “Average Discount Percentage”. 
+6. Add Orders (Superstore Sales Training.xls) to Saved Data Sources. 
+Name the data source “My Superstore” and ensure it is saved in the My Tableau Repository folder, in the Data sources folder.
+Close the current workbook, and then open a new workbook. Under “Connect to Data” select the new “My Superstore” data source, and observe the fields that were saved.
