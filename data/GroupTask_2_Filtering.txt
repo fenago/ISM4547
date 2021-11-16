@@ -1,0 +1,13 @@
+ Filtering:
+Download this file Filtering_Starter.twbx and create a view according to the following specification:
+Has a quick filter region, displays as a single value list, titled “Select a Region” with the option to choose “All” disabled.
+Has a quick filter on Sum or Sales, formatted as a slider, and titled “Adjust View by Sales”.
+
+
+1. Direction Details
+Create a quick filter region, displayed as a single a value list, removing the All option, and titled “Select a Region”.
+Create a quick filter from Sum of Sales, displayed as a slider, with a range of values between $500,000 to $1,000,000, and titled “Adjust View by Sales”
+Experiment with the sliders and notice the “AND” logic being used. The results shown are those that match the criteria of both filters.
+
+----------
+Sorting
